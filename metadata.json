@@ -1,0 +1,7 @@
+{
+  "name": "EducateUrSelf AI",
+  "description": "A comprehensive UPSC/BPSC preparation platform featuring AI-powered search grounding for current affairs and advanced image analysis for study materials.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
